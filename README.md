@@ -17,6 +17,9 @@ Title are listed in **alphabetical** order.
    - [CC0 3D](https://cc03d.com/)
    - [.Blend File](https://www.blendfile.com/)
    - [Retro3D Assets](https://github.com/M3-org/retro3d-assets)
+## Addon
+- **GNU GPL**
+  - [UPBGE FPS Setup](https://github.com/chrisbradleyjones/upbge-fps-setup)
 ## Advanced
 - [UPBGE Discussions](https://github.com/UPBGE/upbge/discussions/)
 ## Blender Materials
